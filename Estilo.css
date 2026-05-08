@@ -1,1 +1,15 @@
-
+* {
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
+p{
+  padding: 15px;
+  text-align: justify;
+  font-family: arial;
+  font-size: 17px;
+}
+footer{
+  background-color #4169E1
+  text-align: center;
+}
