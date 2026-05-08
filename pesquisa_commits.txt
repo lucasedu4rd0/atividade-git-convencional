@@ -1,0 +1,11 @@
+Conventional Commits é uma forma padrão definida de escrever uma mensagem do commit. Utilizando formatos de mensagem, cada um dizendo uma coisa diferente. Eles são:
+
+Feat: Nova funcionalidade (Quando adicionamos uma nova função na página, sendo um novo botão, sistema de busca, etc)
+
+fix: Correção de bug (Adicionado uma correção de algum problema presente no código de seu projeto)
+
+docs: Documentação (Usado especificamente como registro de alteração de textos do projeto, não alterando a lógica do mesmo)
+
+style: Formatação (Usado para indicar que houve alteração na formatação de códigos sem alterar seu funcionamento)
+
+refactor: reorganização (Usado para indicar que houve a reorganização no corpo do código sem modificar seu comportamento)
